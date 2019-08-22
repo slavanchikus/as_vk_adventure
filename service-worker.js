@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/slavanchikus/as_vk_adventure/precache-manifest.1531f5ac477e3c4157b8f4a5978ac364.js"
+  "/as_vk_adventure/precache-manifest.5064c84dd19eacbdec5c66b4d5153290.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/slavanchikus/as_vk_adventure/index.html", {
+workbox.routing.registerNavigationRoute("/as_vk_adventure/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

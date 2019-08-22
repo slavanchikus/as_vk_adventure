@@ -1,14 +1,14 @@
 {
-  "main.css": "/slavanchikus/as_vk_adventure/static/css/main.b7798b0a.chunk.css",
-  "main.js": "/slavanchikus/as_vk_adventure/static/js/main.fe36cc9b.chunk.js",
-  "main.js.map": "/slavanchikus/as_vk_adventure/static/js/main.fe36cc9b.chunk.js.map",
-  "runtime~main.js": "/slavanchikus/as_vk_adventure/static/js/runtime~main.44d18a60.js",
-  "runtime~main.js.map": "/slavanchikus/as_vk_adventure/static/js/runtime~main.44d18a60.js.map",
-  "static/js/2.65594127.chunk.js": "/slavanchikus/as_vk_adventure/static/js/2.65594127.chunk.js",
-  "static/js/2.65594127.chunk.js.map": "/slavanchikus/as_vk_adventure/static/js/2.65594127.chunk.js.map",
-  "index.html": "/slavanchikus/as_vk_adventure/index.html",
-  "precache-manifest.1531f5ac477e3c4157b8f4a5978ac364.js": "/slavanchikus/as_vk_adventure/precache-manifest.1531f5ac477e3c4157b8f4a5978ac364.js",
-  "service-worker.js": "/slavanchikus/as_vk_adventure/service-worker.js",
-  "static/css/main.b7798b0a.chunk.css.map": "/slavanchikus/as_vk_adventure/static/css/main.b7798b0a.chunk.css.map",
-  "static/media/App.css": "/slavanchikus/as_vk_adventure/static/media/start.5bbd2a2c.svg"
+  "main.css": "/as_vk_adventure/static/css/main.f940ebbf.chunk.css",
+  "main.js": "/as_vk_adventure/static/js/main.fe36cc9b.chunk.js",
+  "main.js.map": "/as_vk_adventure/static/js/main.fe36cc9b.chunk.js.map",
+  "runtime~main.js": "/as_vk_adventure/static/js/runtime~main.ff4fad77.js",
+  "runtime~main.js.map": "/as_vk_adventure/static/js/runtime~main.ff4fad77.js.map",
+  "static/js/2.65594127.chunk.js": "/as_vk_adventure/static/js/2.65594127.chunk.js",
+  "static/js/2.65594127.chunk.js.map": "/as_vk_adventure/static/js/2.65594127.chunk.js.map",
+  "index.html": "/as_vk_adventure/index.html",
+  "precache-manifest.5064c84dd19eacbdec5c66b4d5153290.js": "/as_vk_adventure/precache-manifest.5064c84dd19eacbdec5c66b4d5153290.js",
+  "service-worker.js": "/as_vk_adventure/service-worker.js",
+  "static/css/main.f940ebbf.chunk.css.map": "/as_vk_adventure/static/css/main.f940ebbf.chunk.css.map",
+  "static/media/App.css": "/as_vk_adventure/static/media/start.5bbd2a2c.svg"
 }

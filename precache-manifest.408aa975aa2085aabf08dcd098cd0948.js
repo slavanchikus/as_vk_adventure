@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/as_vk_adventure/static/media/pisa.682ecaad.png"
   },
   {
-    "revision": "50c4078a047baccd1c3c",
+    "revision": "138a50e8bc8c8958bf35",
     "url": "/as_vk_adventure/static/css/main.40cd3516.chunk.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = [
     "url": "/as_vk_adventure/static/js/2.ce2af98e.chunk.js"
   },
   {
+    "revision": "f1341cf8a5d47ed955d3f4f6a2fb0d8a",
+    "url": "/as_vk_adventure/static/media/circle.f1341cf8.svg"
+  },
+  {
     "revision": "a8d9e010d5a4dac9647002cf9dc6e861",
     "url": "/as_vk_adventure/static/media/share.a8d9e010.svg"
   },
   {
     "revision": "5bbd2a2cb3a7e1c57321de9c96353d76",
     "url": "/as_vk_adventure/static/media/start.5bbd2a2c.svg"
-  },
-  {
-    "revision": "f1341cf8a5d47ed955d3f4f6a2fb0d8a",
-    "url": "/as_vk_adventure/static/media/circle.f1341cf8.svg"
   },
   {
     "revision": "b6d2069a918a8118159aeddda0b5b87c",
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/as_vk_adventure/static/media/saintp.016373b1.png"
   },
   {
-    "revision": "50c4078a047baccd1c3c",
-    "url": "/as_vk_adventure/static/js/main.b2476c40.chunk.js"
+    "revision": "138a50e8bc8c8958bf35",
+    "url": "/as_vk_adventure/static/js/main.3629ddfc.chunk.js"
   },
   {
     "revision": "febbf31216a66620981f7e78fed1b457",
@@ -88,7 +88,7 @@ self.__precacheManifest = [
     "url": "/as_vk_adventure/static/media/everest.41b9cfe9.png"
   },
   {
-    "revision": "eb01bf4e5f1cc8a7ab09282af9523789",
+    "revision": "aff564db6083e1becbebb5d7f8685211",
     "url": "/as_vk_adventure/index.html"
   }
 ];

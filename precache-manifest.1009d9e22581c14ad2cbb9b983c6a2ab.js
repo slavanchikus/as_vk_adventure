@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/as_vk_adventure/static/media/pisa.682ecaad.png"
   },
   {
-    "revision": "138a50e8bc8c8958bf35",
-    "url": "/as_vk_adventure/static/css/main.40cd3516.chunk.css"
+    "revision": "dd99d9d019ad1210974e",
+    "url": "/as_vk_adventure/static/css/main.19802b22.chunk.css"
   },
   {
     "revision": "795156b73c431a1242c2",
@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/as_vk_adventure/static/media/start.5bbd2a2c.svg"
   },
   {
-    "revision": "b6d2069a918a8118159aeddda0b5b87c",
-    "url": "/as_vk_adventure/static/media/logo.b6d2069a.svg"
-  },
-  {
     "revision": "d29faa70f82803ec28d14e3445ca94b5",
     "url": "/as_vk_adventure/static/media/background.d29faa70.svg"
+  },
+  {
+    "revision": "b6d2069a918a8118159aeddda0b5b87c",
+    "url": "/as_vk_adventure/static/media/logo.b6d2069a.svg"
   },
   {
     "revision": "a98cfdfb11abc6a12ac1dae552f2bd9b",
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/as_vk_adventure/static/media/saintp.016373b1.png"
   },
   {
-    "revision": "138a50e8bc8c8958bf35",
-    "url": "/as_vk_adventure/static/js/main.3629ddfc.chunk.js"
+    "revision": "dd99d9d019ad1210974e",
+    "url": "/as_vk_adventure/static/js/main.2af3d203.chunk.js"
   },
   {
     "revision": "febbf31216a66620981f7e78fed1b457",
@@ -76,19 +76,19 @@ self.__precacheManifest = [
     "url": "/as_vk_adventure/static/media/tbilisi.e47acd09.png"
   },
   {
-    "revision": "32b09c67b3420844c0fa8bfa18e23e14",
-    "url": "/as_vk_adventure/static/media/prague.32b09c67.png"
-  },
-  {
     "revision": "734e37706572f00eabf5739a844b5434",
     "url": "/as_vk_adventure/static/media/china.734e3770.png"
+  },
+  {
+    "revision": "32b09c67b3420844c0fa8bfa18e23e14",
+    "url": "/as_vk_adventure/static/media/prague.32b09c67.png"
   },
   {
     "revision": "41b9cfe912151487081a82ebf76f1cda",
     "url": "/as_vk_adventure/static/media/everest.41b9cfe9.png"
   },
   {
-    "revision": "aff564db6083e1becbebb5d7f8685211",
+    "revision": "340971e03bc69c4fe470e6d88ecf2ca3",
     "url": "/as_vk_adventure/index.html"
   }
 ];

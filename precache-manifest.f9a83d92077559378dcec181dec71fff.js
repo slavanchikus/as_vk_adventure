@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/as_vk_adventure/static/media/logo.b6d2069a.svg"
   },
   {
-    "revision": "d29faa70f82803ec28d14e3445ca94b5",
-    "url": "/as_vk_adventure/static/media/background.d29faa70.svg"
-  },
-  {
     "revision": "40578453be8c673d05d8e1409d1197a5",
     "url": "/as_vk_adventure/static/media/join.40578453.svg"
+  },
+  {
+    "revision": "d29faa70f82803ec28d14e3445ca94b5",
+    "url": "/as_vk_adventure/static/media/background.d29faa70.svg"
   },
   {
     "revision": "00749852179253b055747c4145949035",
@@ -60,12 +60,12 @@ self.__precacheManifest = [
     "url": "/as_vk_adventure/static/media/pisa.57f0f5ac.png"
   },
   {
-    "revision": "6c63ab02347ca5c89bd3173389345559",
-    "url": "/as_vk_adventure/static/media/kaluga.6c63ab02.png"
-  },
-  {
     "revision": "17e83ea45409d6861276ca8bc198dde3",
     "url": "/as_vk_adventure/static/media/amsterdam.17e83ea4.png"
+  },
+  {
+    "revision": "6c63ab02347ca5c89bd3173389345559",
+    "url": "/as_vk_adventure/static/media/kaluga.6c63ab02.png"
   },
   {
     "revision": "56a15a8e483e00a7c387cd4df0129c72",

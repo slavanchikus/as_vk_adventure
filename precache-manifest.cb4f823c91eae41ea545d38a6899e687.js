@@ -20,19 +20,19 @@ self.__precacheManifest = [
     "url": "/as_vk_adventure/static/js/runtime~main.ff4fad77.js"
   },
   {
-    "revision": "0f32d144fdfc71faed99",
-    "url": "/as_vk_adventure/static/js/main.fe01213a.chunk.js"
+    "revision": "6169060dd086687f4ce4",
+    "url": "/as_vk_adventure/static/js/main.137249f4.chunk.js"
   },
   {
     "revision": "6fed14ee47aae1c75e0f",
     "url": "/as_vk_adventure/static/js/2.6848d5e1.chunk.js"
   },
   {
-    "revision": "0f32d144fdfc71faed99",
+    "revision": "6169060dd086687f4ce4",
     "url": "/as_vk_adventure/static/css/main.491db803.chunk.css"
   },
   {
-    "revision": "c491d5e1e18bf8ba5d2b5d1b6695fbc7",
+    "revision": "e0c47b1c463284ff2454421f82259e91",
     "url": "/as_vk_adventure/index.html"
   }
 ];

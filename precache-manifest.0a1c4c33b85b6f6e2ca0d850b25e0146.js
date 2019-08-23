@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/as_vk_adventure/static/media/pisa.682ecaad.png"
   },
   {
-    "revision": "ac526fdd1112ebe4cb54",
+    "revision": "6670ed5cc04bbf7d16b8",
     "url": "/as_vk_adventure/static/css/main.40cd3516.chunk.css"
   },
   {
@@ -12,12 +12,8 @@ self.__precacheManifest = [
     "url": "/as_vk_adventure/static/js/runtime~main.ff4fad77.js"
   },
   {
-    "revision": "ee745d0e4c416cd76e33",
-    "url": "/as_vk_adventure/static/js/2.4202744a.chunk.js"
-  },
-  {
-    "revision": "f1341cf8a5d47ed955d3f4f6a2fb0d8a",
-    "url": "/as_vk_adventure/static/media/circle.f1341cf8.svg"
+    "revision": "527da6ef58c68d4b946f",
+    "url": "/as_vk_adventure/static/js/2.54a0c9d1.chunk.js"
   },
   {
     "revision": "5bbd2a2cb3a7e1c57321de9c96353d76",
@@ -26,6 +22,10 @@ self.__precacheManifest = [
   {
     "revision": "a8d9e010d5a4dac9647002cf9dc6e861",
     "url": "/as_vk_adventure/static/media/share.a8d9e010.svg"
+  },
+  {
+    "revision": "f1341cf8a5d47ed955d3f4f6a2fb0d8a",
+    "url": "/as_vk_adventure/static/media/circle.f1341cf8.svg"
   },
   {
     "revision": "b6d2069a918a8118159aeddda0b5b87c",
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/as_vk_adventure/static/media/saintp.016373b1.png"
   },
   {
-    "revision": "ac526fdd1112ebe4cb54",
-    "url": "/as_vk_adventure/static/js/main.6d1acf89.chunk.js"
+    "revision": "6670ed5cc04bbf7d16b8",
+    "url": "/as_vk_adventure/static/js/main.452da0ef.chunk.js"
   },
   {
     "revision": "febbf31216a66620981f7e78fed1b457",
@@ -72,23 +72,23 @@ self.__precacheManifest = [
     "url": "/as_vk_adventure/static/media/taiga.b4d117ff.png"
   },
   {
-    "revision": "e47acd09f85205b0d9cf8e305677fa4d",
-    "url": "/as_vk_adventure/static/media/tbilisi.e47acd09.png"
-  },
-  {
     "revision": "32b09c67b3420844c0fa8bfa18e23e14",
     "url": "/as_vk_adventure/static/media/prague.32b09c67.png"
   },
   {
-    "revision": "41b9cfe912151487081a82ebf76f1cda",
-    "url": "/as_vk_adventure/static/media/everest.41b9cfe9.png"
+    "revision": "e47acd09f85205b0d9cf8e305677fa4d",
+    "url": "/as_vk_adventure/static/media/tbilisi.e47acd09.png"
   },
   {
     "revision": "734e37706572f00eabf5739a844b5434",
     "url": "/as_vk_adventure/static/media/china.734e3770.png"
   },
   {
-    "revision": "658cb587a80f6047c8af83f85e5c32da",
+    "revision": "41b9cfe912151487081a82ebf76f1cda",
+    "url": "/as_vk_adventure/static/media/everest.41b9cfe9.png"
+  },
+  {
+    "revision": "9a1dadaea6107d7cb34097aed0caca9f",
     "url": "/as_vk_adventure/index.html"
   }
 ];

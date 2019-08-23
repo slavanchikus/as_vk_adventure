@@ -1,14 +1,14 @@
 {
-  "main.css": "/as_vk_adventure/static/css/main.c45a070e.chunk.css",
-  "main.js": "/as_vk_adventure/static/js/main.9f3f2580.chunk.js",
-  "main.js.map": "/as_vk_adventure/static/js/main.9f3f2580.chunk.js.map",
+  "main.css": "/as_vk_adventure/static/css/main.26907dba.chunk.css",
+  "main.js": "/as_vk_adventure/static/js/main.12852a2b.chunk.js",
+  "main.js.map": "/as_vk_adventure/static/js/main.12852a2b.chunk.js.map",
   "runtime~main.js": "/as_vk_adventure/static/js/runtime~main.ff4fad77.js",
   "runtime~main.js.map": "/as_vk_adventure/static/js/runtime~main.ff4fad77.js.map",
   "static/js/2.9a1361b3.chunk.js": "/as_vk_adventure/static/js/2.9a1361b3.chunk.js",
   "static/js/2.9a1361b3.chunk.js.map": "/as_vk_adventure/static/js/2.9a1361b3.chunk.js.map",
   "index.html": "/as_vk_adventure/index.html",
-  "precache-manifest.158c4fa30443c6c7b8b32eadc6a9d5cf.js": "/as_vk_adventure/precache-manifest.158c4fa30443c6c7b8b32eadc6a9d5cf.js",
+  "precache-manifest.48ed6fa0a1c1ef8a60de62c1dae12c95.js": "/as_vk_adventure/precache-manifest.48ed6fa0a1c1ef8a60de62c1dae12c95.js",
   "service-worker.js": "/as_vk_adventure/service-worker.js",
-  "static/css/main.c45a070e.chunk.css.map": "/as_vk_adventure/static/css/main.c45a070e.chunk.css.map",
+  "static/css/main.26907dba.chunk.css.map": "/as_vk_adventure/static/css/main.26907dba.chunk.css.map",
   "static/media/App.css": "/as_vk_adventure/static/media/tbilisi.ec192dc2.png"
 }

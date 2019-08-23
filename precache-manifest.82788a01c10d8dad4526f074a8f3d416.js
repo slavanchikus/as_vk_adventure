@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/as_vk_adventure/static/media/paris.9abae974.png"
   },
   {
-    "revision": "837a1933fa2dbc91da0c",
+    "revision": "a5198c82b3b7e7ad1cef",
     "url": "/as_vk_adventure/static/css/main.bc843893.chunk.css"
   },
   {
@@ -16,10 +16,6 @@ self.__precacheManifest = [
     "url": "/as_vk_adventure/static/js/2.8ea21ab5.chunk.js"
   },
   {
-    "revision": "5bbd2a2cb3a7e1c57321de9c96353d76",
-    "url": "/as_vk_adventure/static/media/start.5bbd2a2c.svg"
-  },
-  {
     "revision": "f1341cf8a5d47ed955d3f4f6a2fb0d8a",
     "url": "/as_vk_adventure/static/media/circle.f1341cf8.svg"
   },
@@ -28,12 +24,16 @@ self.__precacheManifest = [
     "url": "/as_vk_adventure/static/media/share.a8d9e010.svg"
   },
   {
-    "revision": "b6d2069a918a8118159aeddda0b5b87c",
-    "url": "/as_vk_adventure/static/media/logo.b6d2069a.svg"
+    "revision": "5bbd2a2cb3a7e1c57321de9c96353d76",
+    "url": "/as_vk_adventure/static/media/start.5bbd2a2c.svg"
   },
   {
     "revision": "40578453be8c673d05d8e1409d1197a5",
     "url": "/as_vk_adventure/static/media/join.40578453.svg"
+  },
+  {
+    "revision": "b6d2069a918a8118159aeddda0b5b87c",
+    "url": "/as_vk_adventure/static/media/logo.b6d2069a.svg"
   },
   {
     "revision": "d29faa70f82803ec28d14e3445ca94b5",
@@ -48,8 +48,8 @@ self.__precacheManifest = [
     "url": "/as_vk_adventure/static/media/saintp.868877ef.png"
   },
   {
-    "revision": "837a1933fa2dbc91da0c",
-    "url": "/as_vk_adventure/static/js/main.7698b877.chunk.js"
+    "revision": "a5198c82b3b7e7ad1cef",
+    "url": "/as_vk_adventure/static/js/main.993c2f50.chunk.js"
   },
   {
     "revision": "0ab28359924edbc30fd26ba76a43fcef",
@@ -68,12 +68,12 @@ self.__precacheManifest = [
     "url": "/as_vk_adventure/static/media/kaluga.6c63ab02.png"
   },
   {
-    "revision": "56a15a8e483e00a7c387cd4df0129c72",
-    "url": "/as_vk_adventure/static/media/munich.56a15a8e.png"
-  },
-  {
     "revision": "f53c8190d0da375f1d7155b567ad7452",
     "url": "/as_vk_adventure/static/media/prague.f53c8190.png"
+  },
+  {
+    "revision": "56a15a8e483e00a7c387cd4df0129c72",
+    "url": "/as_vk_adventure/static/media/munich.56a15a8e.png"
   },
   {
     "revision": "ec192dc2147864fb45d52c8159c6d27f",
@@ -92,7 +92,7 @@ self.__precacheManifest = [
     "url": "/as_vk_adventure/static/media/everest.e8a54afe.png"
   },
   {
-    "revision": "c2563f24739be47f3978cb2fe56a1f7a",
+    "revision": "c8e3ac00cec2528faa8f86fd56984f21",
     "url": "/as_vk_adventure/index.html"
   }
 ];
